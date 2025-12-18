@@ -1,5 +1,5 @@
 {
-"postfix": "Asterisk Status",
+"postfix": "Status",
 "color": "green",
 "data": {
 	"value": "Registered"
