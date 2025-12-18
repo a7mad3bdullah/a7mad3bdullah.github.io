@@ -1,5 +1,5 @@
 {
-"postfix": "$(date)",
+"postfix": "Asterisk Status",
 "color": "green",
 "data": {
 	"value": "Registered"
